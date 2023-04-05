@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(44, 233, 208);
+    background-color: rgb(5, 118, 248);
 }
 .da{
     color: rgb(228, 53, 53);
@@ -9,7 +9,7 @@ body {
     color: rgb(236, 44, 44);
 }
 .container{
-    width: 40%;
+    width: 70%;
     height: 200px;
 }
 #formulario-link {
