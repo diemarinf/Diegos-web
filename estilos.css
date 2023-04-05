@@ -8,3 +8,7 @@ body {
 .ad{
     color: rgb(236, 44, 44);
 }
+.container{
+    width: 50%;
+    height: 200px;
+}
